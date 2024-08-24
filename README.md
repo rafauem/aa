@@ -17,8 +17,11 @@ Dados estruturados
 ## Analise as afirmações sobre o termo big data analytics e assinale a alternativa correta.
 
 I. O termo intelligence referente a big data analytics é amplo, de modo que pode se referir a processos, tecnologias, estruturas e algoritmos para extrair as percepções significativas dos dados.
+
 II. Big data analytics é um processo usado para extrair insights importantes, como padrões ocultos, correlações desconhecidas, tendências de mercado e preferências do cliente
+
 III. O processo de Big data analytics funciona a partir da análise de grandes volumes de dados, coletados de uma ampla diversidade de fontes
+
 IV. Big data analytics permite que grandes volumes de dados, de uma ampla variedade de fontes, sejam processados e analisados, de modo a produzir padrões de comportamento dos usuários
 
 R>II-III-IV
