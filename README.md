@@ -127,3 +127,49 @@ Avaliar a qualidade dos dados
 Encontrar padrões nos dados
 
 > Encontrar dados de fontes externas
+
+
+# O que é OLAP On-Line Analytical Processing (Processamento Analítico On-Line).
+> É um conceito de interface com o usuário que proporciona a capacidade de ter ideias sobre os dados, permitindo analisá-los profundamente em diversos ângulos.
+
+# O modelo multidimensional é uma variação do modelo relacional, que usa estruturas multidimensionais para organizar os dados e expressar as relações entre eles. A partir da reunião das informações sobre métricas, dimensões e agrupamentos das informações da modelagem, é preciso definir o esquema de modelagem que será adotado no projeto. A literatura destaca dois principais esquemas, quais são eles?
+> Esquema estrela – Esquema floco de neve
+
+# A Figura 1 seguinte, pertence a qual etapa de um processo decisório?
+(Sem figura)
+> Avaliação das alternativas
+
+# Atualmente, existem ferramentas para padronizar e colocar os dados em um Data Warehouse (ferramentas de extração, transformação e carregamento). Essas ferramentas têm um requisito obrigatório. Qual requisito é esse?
+> Carregamento em tempo real
+
+# Qual princípio básico de toda modelagem para um data warehouse?
+> A base de dados deve refletir a visão estratégica dos analistas de negócio e dos gerentes da organização que o utilizarão
+
+# Qual a maneira / forma utilizada para demonstrar a Modelagem Multidimensional?
+> Cubo
+
+# Assinale a alternativa correta sobre os métodos de armazenamento do OLAP On-Line Analytical Processing (Processamento Analítico On-Line).
+
+I. ROLAP (OLAP Relacional): Os dados são armazenados de forma relacional.  
+II. MOLAP (OLAP Multidimensional): Os dados são armazenados de forma multidimensional.  
+III. HOLAP (OLAP Híbrido): Uma combinação dos métodos ROLAP e MOLAP.  
+IV. DOLAP (OLAP Desktop): O conjunto de dados multidimensionais deve ser criado no servidor e transferido para o desktop. Permite portabilidade aos usuários OLAP que não possuem acesso direto ao servidor.  
+
+> I – II – III – IV estão corretas
+
+# O que é um Repositório de metadados?
+> Os catálogos de sistema associados a um data warehouse são muito grandes e frequentemente são armazenados e gerenciados em um banco de dados separados
+
+# Analise as afirmações sobre Data Warehouse e assinale a alternativa correta.
+
+I. Os Datas Warehouses são elementos que, cada vez mais, são essenciais para ajudar nas melhorias dos negócios de uma empresa, pois permitem que o gerenciamento seja aliado aos objetivos do negócio.
+
+II. Os Datas Warehouses podem ser utilizados por praticamente todas as empresas, desde que se faça uma análise qualitativa de todos os dados que serão necessários para que a empresa possa tomar decisões em tempo hábil e mais assertivas
+
+III. Data mart ou Datas Warehouses  é um local onde existem inúmeros dados de fontes que podem ser diferentes, levando a um ou mais assuntos
+
+IV. O data warehouse de uma empresa poderia incluir os bancos de dados de inventário e do departamento pessoal, junto com bancos de dados de vendas mantidos por escritórios em diferentes países
+> 	I – II – III – IV estão corretas
+
+# O que significa OLTP (processamento transacional online)?
+OLTP os dados são manipulados por sistemas do legado e armazenados em repositórios relacionais, permitindo a realização das operações transacionais de inclusão, alteração e remoção, além de consultas
