@@ -157,3 +157,13 @@ IV. O data warehouse de uma empresa poderia incluir os bancos de dados de invent
 O que significa OLTP (processamento transacional online)?
 
 OLTP os dados são manipulados por sistemas do legado e armazenados em repositórios relacionais, permitindo a realização das operações transacionais de inclusão, alteração e remoção, além de consultas
+
+---
+'''python
+a, b = 0, 1
+while a<= 14:
+    if (a % 2) == 1:
+        print(a)
+    a, b = b, a+b
+'''
+> 1 1 3 5 13
