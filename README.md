@@ -167,3 +167,14 @@ while a<= 14:
     a, b = b, a+b
 ```
 > 1 1 3 5 13
+
+```python
+def ABC(L, n):
+      while True:
+             if len(L) >= n:
+                 return L
+           else:
+                 L.append(len(L) ** 2)
+print(ABC([20],10))
+```
+> [20, 1, 4, 9, 16, 25, 36, 49, 64, 81]
