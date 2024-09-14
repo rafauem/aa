@@ -159,6 +159,9 @@ O que significa OLTP (processamento transacional online)?
 OLTP os dados são manipulados por sistemas do legado e armazenados em repositórios relacionais, permitindo a realização das operações transacionais de inclusão, alteração e remoção, além de consultas
 
 ---
+
+Listas e sequências são indexadas por inteiros, ao passo que dicionários podem ser indexados por 'strings'.
+
 ```python
 a, b = 0, 1
 while a<= 14:
@@ -183,4 +186,39 @@ print(ABC([20],10))
 x = 7*3**2 % 4
 print(x)
 ```
-> [20, 1, 4, 9, 16, 25, 36, 49, 64, 81]
+> 3
+
+```python
+L=[1]
+while len(L) < 6:
+    L.append(L[-1]*len(L))
+print(L)
+```
+> [1, 1, 2, 6, 24, 120]
+
+```python
+x = [1,2,3,4,5]
+print(x[::-1])
+```
+> [5, 4, 3, 2, 1]
+
+```python
+>>> matriz = [[1,2,3], [4,5,6],[7,8,9]]
+>>> matriz[2][1]
+```
+> 8
+
+```python
+
+```
+> 
+
+```python
+
+```
+> 
+
+```python
+
+```
+> 
