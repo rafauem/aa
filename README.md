@@ -1,3 +1,4 @@
+[nãoclickaqui](https://chatgpt.com/)
 ## 1
 
 A data science trabalha com dados estruturados, semiestruturados e não estruturados, cuja abordagem tem a capacidade de fornecer visualizações de padrões e percepções que não são humanamente possíveis. Neste contexto, analise a seguinte frase referente a uma empresa de transporte: “Mensagens de texto livre e mensagens pré-fixadas enviadas pela central ao motorista,  são dados _____ armazenados”. Especifique qual o tipo de dado referido na frase:
