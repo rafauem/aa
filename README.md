@@ -2,7 +2,6 @@
 [Duck](https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1)
 [Copilot](https://copilot.microsoft.com/)
 [GPT](https://chatgpt.com/)
-
 ___
 # AE1
 
@@ -98,3 +97,98 @@ Se utilizam de portfólio, que se trata de uma técnica de gestão para conjunto
 Acerca dessas asserções, assinale a opção correta. 
 
 > As duas asserções são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira
+
+___
+# AE2
+
+## 1
+O modelo de gerenciamento de projetos do PMI (Project Management Institute), descrito no PMBOK, envolve um conjunto de nove áreas de conhecimento a serem consideradas com vistas a melhorar o processo de gestão de um projeto, ampliando-se, consequentemente, suas chances de sucesso. Considere que, no desenvolvimento de um sistema de vendas de uma empresa que atua no segmento industrial, o orçamento inicial tenha sido extrapolado em 120% e que a equipe da área de sistemas tenha concluído o sistema com mais de quatro meses de atraso. Nas reuniões com os usuários para a entrega do sistema, foi constatado que este não atendia às especificações esperadas pelos usuários. 
+Nessa situação, evidenciam-se áreas de conhecimento que compõem a chamada tripla restrição, que são as áreas de gerenciamento de
+
+> custo, tempo e escopo.
+
+## 2
+
+Analise as afirmações abaixo sobre as 10 áreas de conhecimento, segundo o guia PMBOK.
+
+I - O Gerenciamento do Escopo inclui os processos e as atividades necessários para proporcionarem que todos os aspectos do projeto sejam coordenados e integrados
+
+II - O Gerenciamento do Escopo compreende o que o projeto tem como proposta de entrega, garantindo que todos os trabalhos sejam desempenhados e tenham sido inclusos no projeto, para alcançar os objetivos dele.
+
+III - O Gerenciamento de Recursos compreende o que o projeto tem como proposta de entrega, garantindo que todos os trabalhos sejam desempenhados e tenham sido inclusos no projeto, para alcançar os objetivos dele.
+
+> II
+
+## 3
+O PMBOK (Project Management Body of Knowledge) foi desenvolvido com a   colaboração de vários profissionais afiliados ao PMI (Project Management Institute) e de origens diversas. Segundo o PMI (2008), o principal objetivo do guia PMBOK é identificar o subconjunto do corpo de conhecimentos em gerenciamento de projetos amplamente reconhecido como boa prática. O modelo está estruturado em nove áreas do conhecimento; uma delas é o gerenciamento das comunicações do projeto. Assinale a alternativa que apresenta corretamente um dos processos da área citada.
+
+> Gerenciar as expectativas das partes interessadas.
+
+## 4
+Considerando o modelo proposto pelo PMI (Project Management Institute) para o gerenciamento de projetos, qual dos itens abaixo não é entrada para os processos de autorização do projeto?
+
+> Declaração de Escopo
+
+## 5
+
+Em qual dos grupos de processos se encontram os processos necessários para tornar oficial a aceitação do produto, do serviço ou do resultado?
+
+> Encerramento
+
+## 6
+
+Há cinco grupos de processos de gerenciamento de projetos que independem de áreas de aplicação ou especialização do setor. Qual dos grupos apresenta como objetivo determinar e aprimorar objetivos bem como planejar ações necessárias para atingir os objetivos e o escopo? 
+
+> Planejamento. 
+
+## 7
+
+Analise as Afirmações a respeito do conceito de processo na área de projetos:
+
+I - Processos orientados ao produto são de responsabilidade do gerente de projetos
+
+II - Processos de gerenciamento de projetos garantem o fluxo eficaz do projeto.
+
+III - Processos orientados a produtos: especificam e criam o produto do projeto; geralmente são definidos pelo Ciclo de Vida do Projeto e variam por área de conhecimento
+
+> II e III
+
+## 8
+
+Analise as afirmações a respeito das características dos grupos de processos com base no guia PMBOK.
+
+I - Se o projeto estiver dividido em fases, os grupos de processos inter-relacionam-se dentro de cada fase.
+
+II - São vinculados pelas saídas que produzem, pois, esporadicamente, são eventos distintos ou que acontecem uma única vez.
+
+III - São vinculados pelas entradas, pois, esporadicamente, são eventos distintos ou que acontecem uma única vez.
+
+> I e II
+
+## 9
+
+Em relação aos grupos de processos, analise o que se afirma:
+
+I - No grupo de processo de iniciação, geralmente, o gerente de projetos inicia o projeto lidando com diversas questões, riscos ou especificidades. Nesse grupo, o gerente de projetos faz a verificação das atividades de iniciação essenciais para identificar o serviço ou o produto que demanda a execução do projeto.
+
+II - No grupo de processo de execução, o gerente de projetos constituirá, formará e administrará a equipe do projeto, colaborando para o processo de garantia da qualidade. Ademais, o gerente tem a tarefa de disseminar as informações a respeito do status do projeto (atividades iniciadas, em andamento, em atraso e finalizadas), para que as partes interessadas acompanhem; ele, ainda, tem que assegurar que o produto e as entregas somente serão alterados a partir de solicitações de mudanças definidas.
+
+III - O guia PMBOK descreve uma metodologia para o gerenciamento de projetos.
+
+> II e III
+
+## 10
+
+Considere que Analistas estejam utilizando as melhores práticas do guia PMBOK para realizarem o Gerenciamento da Integração do Projeto. Os Analistas estão trabalhando em um processo responsável pelo acompanhamento, análise e registro do progresso para atender aos objetivos de desempenho definidos no plano de gerenciamento do projeto. Este processo lida com dois aspectos:
+
+I - É executado do início ao término do projeto e inclui a coleta, medição e distribuição das informações de desempenho e a avaliação das medições e tendências para efetuar melhorias no processo. Realizado de forma contínua, fornece à equipe de gerenciamento uma compreensão clara da saúde do projeto, identificando quaisquer áreas que possam requerer atenção especial.
+
+II - Inclui a determinação de ações corretivas ou preventivas, ou o replanejamento e acompanhamento dos planos de ação para determinar se as ações tomadas resolveram o problema de desempenho.
+
+O processo e os aspectos I e II, no qual os Analistas estão trabalhando, são correta e respectivamente,
+
+
+> Monitorar e controlar o trabalho do projeto − monitoramento − controle.
+
+
+___
